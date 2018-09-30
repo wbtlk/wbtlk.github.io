@@ -42,11 +42,12 @@
     "noImageResize": "",
     "cookiesAlert": "",
     "gdpr": "",
-    "siteUrl": "",
+    "siteUrl": "https://wbtlk.github.io",
     "google-analytics": "",
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": "",
-    "sitemapSwitcherAuto": "on"
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
+    "robotsSwitcher": "on",
+    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
